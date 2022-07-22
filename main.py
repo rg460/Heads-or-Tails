@@ -7,7 +7,7 @@ print("Welcome to Coin Toss Program")
 random_number = random.randint(0,1)
 # check random number is working correctly[done]
 # print(random_number);
-# write a if/ else satement for if random number equals 0 then print Heads else print Tails
+# write a if/ else satement for if random number equals 0 then print Heads else print Tails[done]
 if random_number == 0:
   print("Heads")
 else:
