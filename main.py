@@ -1,7 +1,7 @@
+import random
 #Write your code below this line 👇
 print("Welcome to Coin Toss Program")
 #Hint: Remember to import the random module first. 🎲
-import random
 # Plan
 # Generate random whole number between 1 and 0 and saved to a variable[done]
 random_number = random.randint(0,1)
